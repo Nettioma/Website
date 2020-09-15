@@ -1,4 +1,4 @@
 <br>
 Hello! Welcome to our website, enjoy your stay here!
-Make sure to explore our website!
+Make sure to explore our website! See if there is any topics you may like
 `end
